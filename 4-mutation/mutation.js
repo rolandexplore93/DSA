@@ -7,7 +7,10 @@ function Mutation(arr){
         return firstEntry.includes(letter);
     });
 
-    return checkLetter
+    console.log(checkLetter)
 }
 
 Mutation(["Roland", "Poland"])
+Mutation(["Roland", "Poland"])
+Mutation(["Fed", "Feeding"])
+Mutation(["Atiss", "Satis"])
